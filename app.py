@@ -158,6 +158,7 @@ with st.sidebar:
     st.subheader("Device Information")
     # ... your original device info code ...
 
+'''
 elif side_page == "Upload":
     # ... your original upload page code ...
     st.title("📂 Upload Files")
@@ -165,3 +166,4 @@ elif side_page == "Upload":
 else:  # About
     # ... your original about page code ...
     st.title("About")
+'''
